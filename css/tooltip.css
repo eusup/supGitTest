@@ -1,0 +1,18 @@
+/* thinking */
+.bookreport div.tooltip {
+    position: absolute;
+    top: 53%;
+    left: 0;
+    right:10px; 
+    padding: 5px 10px;
+    font-size: 13px;
+    color: #fff !important;
+    border-radius: 4px;
+    background-color: #81c5d8;
+    z-index: 2;
+    width:210px;
+    
+}
+div.tooltip-inner {
+    color: #fff !important;
+}
